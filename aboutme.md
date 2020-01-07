@@ -4,14 +4,14 @@ title: About me
 subtitle: A peek into my thought process
 ---
 
-<!My name is Inigo Montoya. I have the following qualities:
+My name is Gaganjeet Reen. I have a Bachelor of Technology Degree in Information Technology and a Master of Technology Degree in Cyber Law and Information Security.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I love reading and analysing upcoming technologies and like developing things that can make the daily lives of everyone easier.
 
-What else do you need?
+I also like to analyse the security of websites, softwares and systems in general. 
 
-### my history
+The areas of Blockchain, Security and Privacy, IOT and Quantum Computing seem particularly intriguing to me.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
->
+I have extensively used React js for frontend development, javascrpt with a node compiler for backend as well as C and C++ for application development but I prefer not limiting myself by languages and framworks. I am passionate about Computer Science and development therefore I like experimenting with different languages and frameworks and use the one most suitable for the task at hand.
+
+

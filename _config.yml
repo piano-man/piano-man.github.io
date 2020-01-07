@@ -20,7 +20,7 @@ description: Personal Website
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "about"
+  About Me: "aboutme"
   Projects: "projects"
   Work Experience: "workex"
 
