@@ -47,12 +47,16 @@ Some of the features considered for rating repositories are:-
 
     Built using RASPBERRY PI, ARDUINO, PYTHON, FLASK and MISCELLANEOUS SENSORS.
 
-- **[Collaborator](https://github.com/zombiesingh/Collaborator)** - {A collaboration software allowing band members to maintain common playlists and synchronize their practice sessions.
+- **[Collaborator](https://github.com/zombiesingh/Collaborator)** - A collaboration software allowing band members to maintain common playlists and synchronize their practice sessions.
 
     Built using Node js, socket io and Youtube API with a simple jquery frontend.
 
-- **[Announcement Portal](https://github.com/piano-man/announcement_portal)** - {A targeted mailing system designed specifically for college students allowing all format file transfer.It supports broadcast as well as targeted data transfer between multiple clients.
+- **[Announcement Portal](https://github.com/piano-man/announcement_portal)** - A targeted mailing system designed specifically for college students allowing all format file transfer.It supports broadcast as well as targeted data transfer between multiple clients.
 
-Built using Node js, socket io and Youtube API with a simple jquery frontend.
+    Built using Node js, socket io and Youtube API with a simple jquery frontend.
+
+- **[Tennis Match Notifier]()** - A web application to receive push notifications of ongoing tennis tournaments with added support for targeted notifications. It can be configured to receive notifications of matches of specific players etc. Primarly utilises Web Scraping to obtain the required information.
+
+    Built using Node js, FLASK, ESPN API, Chrome Push Notifications and BeautifulSoup(Web Scraper).
 
 ---
