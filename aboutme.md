@@ -12,6 +12,6 @@ I also like to analyse the security of websites, softwares and systems in genera
 
 The areas of Blockchain, Security and Privacy, IOT and Quantum Computing seem particularly intriguing to me.
 
-I have extensively used React js for frontend development, javascrpt with a node compiler for backend as well as C and C++ for application development but I prefer not limiting myself by languages and framworks. I am passionate about Computer Science and development therefore I like experimenting with different languages and frameworks and use the one most suitable for the task at hand.
+I have extensively used React js for frontend development, javascrpt with a node compiler for backend as well as C and C++ for application development but I prefer not limiting myself by languages and frameworks. I am passionate about Computer Science and development therefore I like experimenting with different languages and frameworks and use the one most suitable for the task at hand.
 
 
