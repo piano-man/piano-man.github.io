@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Work Experience
-subtitle: Organisations that I have been a part of
+# subtitle: Organisations that I have been a part of
 comments: true
 carbonads: true
 ---
 
-This is a list(a rather short one) of the places that I have worked in.
+This is a list(a rather short one) of the organisations that I have been a part of.
 
 
 ## Work Experience
