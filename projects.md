@@ -47,6 +47,12 @@ Some of the features considered for rating repositories are:-
 
     Built using RASPBERRY PI, ARDUINO, PYTHON, FLASK and MISCELLANEOUS SENSORS.
 
+- **[Decentralised Patient Centric E-Health Record Management System using Blockchain and IPFS]()** - A Blockchain based decentralised medical record management which uses principles of cryptography and decentralisation to give patients complete control over their e-Health Records and prevents privacy violations.
+
+The github repository for this particular project is still private as the research paper based on this is in the process of getting published. As soon as this is done, all the code will be made public.
+
+    Built using Ethereum, Web3 js, Node js, React js, Solidity and IPFS.
+
 - **[Collaborator](https://github.com/zombiesingh/Collaborator)** - A collaboration software allowing band members to maintain common playlists and synchronize their practice sessions.
 
     Built using Node js, socket io and Youtube API with a simple jquery frontend.
