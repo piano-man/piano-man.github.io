@@ -27,6 +27,7 @@ This is a list(a rather short one) of the organisations that I have been a part 
 - **DroidHomes** - 
 
     Software Development Intern
+    
     May 2017 - July 2017
 
     - Developed a dashboard system for administrators.
