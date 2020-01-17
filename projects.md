@@ -39,6 +39,10 @@ Some of the features considered for rating repositories are:-
 
     Built using React for front-end, Node.js(Express) for back-end and Google Maps API for location-based features.
 
+- **[Demonstration of Secure Key Exchange using Quantum Key Distribution Protocols]()** - This is essentially the topic of my Masters Thesis and is still a work in progress. It involves an analysis of BB84, E91, S09 and Super Dense Coding protocols and their simulation on IBM Qx followed by a comparative analysis of the theoretical and the practical results obtained. Further, information transfer using the Delayed Choice Quantum Eraser Experiment is also discussed briefly. I also briefly discuss the feasibility of Quantum Computing and the areas where it will be immensely useful in the thesis.
+
+    Built IBM Qx with the analysis scripts and parsers coded in Python 3.
+
 - **[DDoS Attack Mitigation using Blockchain and Smart Contracts](https://github.com/piano-man/DDOS)** - A smart contract based blockchain system to mitigate DDoS attacks by identifying malicious or spoofed IP Addresses and blacklisting them using a decentralised architecture.
 
     Built using HPING3, Solidity, Web3 js, Ethereum, Netstat and TCPTrack.
@@ -49,7 +53,7 @@ Some of the features considered for rating repositories are:-
 
 - **[Decentralised Patient Centric E-Health Record Management System using Blockchain and IPFS]()** - A Blockchain based decentralised medical record management which uses principles of cryptography and decentralisation to give patients complete control over their e-Health Records and prevents privacy violations.
 
-The github repository for this particular project is still private as the research paper based on this is in the process of getting published. As soon as this is done, all the code will be made public.
+    The github repository for this particular project is still private as the research paper based on this is in the process of getting published. As soon as this is done, all the code will be made public.
 
     Built using Ethereum, Web3 js, Node js, React js, Solidity and IPFS.
 
