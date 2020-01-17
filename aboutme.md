@@ -4,7 +4,7 @@ title: About me
 subtitle: A peek into my thought process
 ---
 
-My name is Gaganjeet Reen. I have a Bachelor of Technology Degree in Information Technology and a Master of Technology Degree in Cyber Law and Information Security.
+My name is Gaganjeet Reen. I have a Bachelor of Technology Degree in Information Technology and a Master of Technology Degree in Cyber Law and Information Security, both from Indian Institute of Information Technology, Allahabad.
 
 I love reading and analysing upcoming technologies and like developing things that can make the daily lives of everyone easier.
 
