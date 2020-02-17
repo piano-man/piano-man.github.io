@@ -41,7 +41,7 @@ Some of the features considered for rating repositories are:-
 
 - **[Demonstration of Secure Key Exchange using Quantum Key Distribution Protocols]()** - This is essentially the topic of my Masters Thesis and is still a work in progress. It involves an analysis of BB84, E91, S09 and Super Dense Coding protocols and their simulation on IBM Qx followed by a comparative analysis of the theoretical and the practical results obtained. Further, information transfer using the Delayed Choice Quantum Eraser Experiment is also discussed briefly. I also briefly discuss the feasibility of Quantum Computing and the areas where it will be immensely useful in the thesis.
 
-    Built IBM Qx with the analysis scripts and parsers coded in Python 3.
+    Built using IBM Qx with the analysis scripts and parsers coded in Python 3.
 
 - **[DDoS Attack Mitigation using Blockchain and Smart Contracts](https://github.com/piano-man/DDOS)** - A smart contract based blockchain system to mitigate DDoS attacks by identifying malicious or spoofed IP Addresses and blacklisting them using a decentralised architecture.
 
