@@ -47,7 +47,7 @@ Some of the features considered for rating repositories are:-
 
     Built using HPING3, Solidity, Web3 js, Ethereum, Netstat and TCPTrack.
 
-- **[Smart Lighting System](https://github.com/piano-man/smart_lighting)** - An intelligent(adaptive) street lighting system which uses the surrounding conditions to pick the optimum light intensity.The system also allows for constant logging of the street light conditions and remote identification of faulty street lights.Addresses and blacklisting them using a decentralised architecture.
+- **[Smart Lighting System](https://github.com/piano-man/smart_lighting)** - An intelligent(adaptive) street lighting system which uses the surrounding conditions to pick the optimum light intensity.The system also allows for constant logging of the street light conditions and remote identification of faulty street lights.
 
     Built using RASPBERRY PI, ARDUINO, PYTHON, FLASK and MISCELLANEOUS SENSORS.
 
